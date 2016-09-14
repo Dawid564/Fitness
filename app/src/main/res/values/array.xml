@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="personalActivity">
+        <item>Lack Activity</item>
+        <item>Low Activity (few times in month)</item>
+        <item>Moderate Activity (1-2 times in week)</item>
+        <item>High Activity (3-5 times in week)</item>
+        <item>Extreme High Activity (Everyday)</item>
+    </string-array>
+</resources>
